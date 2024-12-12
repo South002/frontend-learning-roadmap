@@ -34,7 +34,7 @@ sequenceDiagram
 - 用于查询服务器支持的方法
 - 返回服务器允许的通信选项
 
-![OPTIONS请求示例](https://raw.githubusercontent.com/your-image-path/options-example.png)
+![OPTIONS请求示例](https://github.com/South002/frontend-learning-roadmap/blob/master/http%E5%8D%8F%E8%AE%AE%E8%AF%A6%E8%A7%A3/options-example.png)
 
 ### 3. TRACE方法
 - 让服务器端将之前的请求通信环回给客户端
