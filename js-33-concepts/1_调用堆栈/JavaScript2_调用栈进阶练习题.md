@@ -268,7 +268,7 @@ function factorial2(n, acc = 1) {
 }
 ```
 ## 2. 分片处理流程 (题目4)
-
+![分片处理流程](https://static.oschina.net/uploads/space/2017/1213/104047_yNc9_2896879.png)
 ```mermaid
 sequenceDiagram
     participant Main
